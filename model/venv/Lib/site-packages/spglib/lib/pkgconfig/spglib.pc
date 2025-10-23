@@ -1,0 +1,5 @@
+Name: Spglib
+Description: The spglib library
+Version: 2.6.0
+Libs: -LC:/Users/runneradmin/AppData/Local/Temp/tmplb_qqa42/wheel/platlib/spglib/lib -lsymspg
+Cflags: -IC:/Users/runneradmin/AppData/Local/Temp/tmplb_qqa42/wheel/platlib/spglib/include
